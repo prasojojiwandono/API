@@ -2,6 +2,12 @@
 Simple API from flask framework
 ----
 
+first of all thankyou for channel Traversy Media from youtube
+I can learn something about flask and API
+
+this mini project can happen because one of Traversy Media video's
+https://www.youtube.com/watch?v=PTZiDnuC86g
+
 To run this, first run the requirements first
 ``pip install -r requirements.txt``
 
