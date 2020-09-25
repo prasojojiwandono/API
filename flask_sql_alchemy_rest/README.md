@@ -15,6 +15,7 @@ second check if there any db.sqlite file or not,
 if there is not db.sqlite file
 run this in python command
 ``from app import db``
+
 ``db.create_all()``
 
 third To run this simple api 
