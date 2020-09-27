@@ -141,3 +141,5 @@ creds/
 
 .env-staging
 .idea/
+
+private_note
